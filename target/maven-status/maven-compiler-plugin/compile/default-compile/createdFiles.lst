@@ -1,0 +1,8 @@
+co\edu\konrad\marketplace\persistence\ProductoPersistence.class
+co\edu\konrad\marketplace\entities\ClienteEntity_.class
+co\edu\konrad\marketplace\persistence\TipoDocumentoPersistence.class
+co\edu\konrad\marketplace\entities\ProductoEntity_.class
+co\edu\konrad\marketplace\entities\ClienteEntity.class
+co\edu\konrad\marketplace\entities\TipoDocumentoEntity.class
+co\edu\konrad\marketplace\entities\ProductoEntity.class
+co\edu\konrad\marketplace\entities\TipoDocumentoEntity_.class
